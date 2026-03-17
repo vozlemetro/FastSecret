@@ -1,3 +1,4 @@
+#по приколу добавил
 tasks = []
 completed = []
 while True:
